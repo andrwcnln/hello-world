@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello world!
+
+Trying to learn how to use GitHub hwg hwg
